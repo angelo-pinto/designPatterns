@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Produto
+comment1.params=nome\ valor
+comment1.target=Produto(java.lang.String,\ int)
+comment2.params=cliente
+comment2.target=void\ adicionar(AbstractCliente)
+comment3.params=cliente
+comment3.target=void\ remover(AbstractCliente)
+comment4.params=
+comment4.target=void\ notificar()
+numComments=5

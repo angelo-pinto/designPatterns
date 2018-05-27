@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Cliente
+comment0.text=\r\n\ Escreva\ a\ descri\u00E7\u00E3o\ da\ classe\ Observer\ aqui.\r\n\ \r\n\ @author\ (Angelo\ R.\ Pinto)\r\n\ @version\ (2018-05-14)\r\n
+comment1.params=nome
+comment1.target=Cliente(java.lang.String)
+comment2.params=produto
+comment2.target=void\ observar(AbstractProduto)
+comment3.params=
+comment3.target=void\ atualizar()
+numComments=4

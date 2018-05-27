@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=AbstractCliente
+comment0.text=\r\n\ Classe\ abstrata\ AbstractObserver\ -\ escreva\ a\ descri\u00E7\u00E3o\ da\ classe\ aqui\r\n\ \r\n\ @author\ (Angelo\ R.\ Pinto)\r\n\ @version\ (2018-05-14)\r\n
+comment1.params=
+comment1.target=void\ atualizar()
+numComments=2
