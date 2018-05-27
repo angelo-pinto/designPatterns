@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=CalcularAlvo
+comment0.text=\r\n\ Classe\ de\ assinatura\ da\ Classe\ de\ C\u00E1lculos\r\n\r\n\ @author\ (Angelo\ R.\ Pinto)\r\n\ @version\ (1.0.0)\r\n
+comment1.params=a\ b
+comment1.target=int\ somar(int,\ int)
+comment1.text=\r\n\ Assinatura\ dos\ m\u00E9todos\r\n\r\n\ @param\ \ int\ a\ -\ elemento\ inteiro\ da\ soma\r\n\ @param\ \ int\ b\ -\ elemento\ inteiro\ da\ soma\r\n\ @return\ retorna\ a\ soma\ dos\ elementos\ a\ +\ b\r\n
+comment2.params=a\ b
+comment2.target=int\ subtrair(int,\ int)
+numComments=3

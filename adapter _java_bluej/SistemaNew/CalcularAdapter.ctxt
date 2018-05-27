@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=CalcularAdapter
+comment0.text=\r\n\ Classe\ que\ faz\ a\ adapta\u00E7\u00E3o\ para\ a\ nova\ classe\r\n\ \r\n\ @author\ (Angelo\ R.\ Pinto)\r\n\ @version\ (1.0.0)\r\n
+comment1.params=a\ b
+comment1.target=int\ somar(int,\ int)
+comment2.params=a\ b
+comment2.target=int\ subtrair(int,\ int)
+numComments=3

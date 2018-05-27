@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Calculadora
+comment0.text=\r\n\ Classe\ principal\ do\ sistema\r\n\r\n\ @author\ (Angelo\ Rafael)\r\n\ @version\ (1.0)\r\n
+comment1.params=
+comment1.target=Calculadora()
+comment2.params=a
+comment2.target=void\ setA(int)
+comment3.params=b
+comment3.target=void\ setB(int)
+comment4.params=
+comment4.target=int\ getA()
+comment5.params=
+comment5.target=int\ getB()
+comment6.params=operacao
+comment6.target=void\ oper(java.lang.String)
+numComments=7

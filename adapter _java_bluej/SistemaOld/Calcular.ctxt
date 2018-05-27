@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Calcular
+comment0.text=\r\n\ Classe\ utilizada\ para\ efetuar\ os\ c\u00E1lculos\r\n\r\n\ @author\ (Angelo\ Rafael)\r\n\ @version\ (1.0)\r\n
+comment1.params=
+comment1.target=Calcular()
+comment2.params=a\ b
+comment2.target=int\ somar(int,\ int)
+comment3.params=a\ b
+comment3.target=int\ subtrair(int,\ int)
+numComments=4

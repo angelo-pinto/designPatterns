@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=CalcularNew
+comment0.text=\r\n\ Nova\ classe\ de\ implementa\u00E7\u00E3o\ do\ elementos\r\n\r\n\ @author\ (Angelo\ R.\ Pinto)\r\n\ @version\ (1.0.0)\r\n
+comment1.params=
+comment1.target=CalcularNew()
+comment1.text=\ \r\n\ Construtor\ da\ Classe\r\n
+comment2.params=elementos
+comment2.target=int\ somar(int[])
+comment2.text=\r\n\ M\u00E9todo\ que\ percorre\ o\ array\ somando\ os\ elementos\ FOR\ EACH\r\n\ @param\ \ \ int[]\ elementos\ -\ array\ de\ inteiros\ com\ os\ elementos\ que\ devem\ ser\ somados\r\n\ @return\ \ retorna\ um\ inteiro\ com\ a\ soma\ dos\ elementos\r\n
+comment3.params=elementos
+comment3.target=int\ subtrair(int[])
+comment3.text=\r\n\ M\u00E9todo\ que\ percorre\ o\ array\ subtraindo\ os\ elementos\ do\ array\r\n\ @param\ \ \ int[]\ elementos\ -\ array\ de\ inteiros\ com\ os\ elementos\ que\ devem\ ser\ subtraidos\r\n\ @return\ \ retorna\ um\ inteiro\ com\ a\ subtra\u00E7\u00E3o\ dos\ elementos\r\n
+numComments=4
