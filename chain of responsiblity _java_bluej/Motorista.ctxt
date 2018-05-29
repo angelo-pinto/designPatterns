@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Motorista
+comment0.text=\r\n\ \r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=nome
+comment1.target=Motorista(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getNome()
+comment3.params=nome
+comment3.target=void\ setResponsavelPor(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getResponsavelPor()
+comment5.params=pessoa
+comment5.target=void\ setProximoMotorista(Pessoa)
+comment6.params=carona
+comment6.target=void\ darCarona(Pessoa)
+numComments=7

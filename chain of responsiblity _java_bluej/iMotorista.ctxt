@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=iMotorista
+comment0.text=\r\n\ \r\n\r\n\ @author\ (Angelo\ R.\ Pinto)\r\n\ @version\ (27/05/2018)\r\n
+comment1.params=pessoa
+comment1.target=void\ setProximoMotorista(Pessoa)
+comment2.params=pessoa
+comment2.target=void\ darCarona(Pessoa)
+numComments=3

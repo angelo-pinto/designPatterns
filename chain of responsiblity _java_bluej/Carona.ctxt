@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Carona
+comment0.text=\r\n\ \r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=nome
+comment1.target=Carona(java.lang.String)
+comment2.params=nome
+comment2.target=void\ setNome(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getNome()
+comment4.params=pessoa
+comment4.target=void\ setProximoMotorista(Pessoa)
+comment5.params=pessoa
+comment5.target=void\ darCarona(Pessoa)
+numComments=6
